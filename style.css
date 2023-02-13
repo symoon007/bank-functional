@@ -1,0 +1,19 @@
+* {
+    box-sizing:  border-box;
+}
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik&family=Satisfy&display=swap');
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+.rubik {
+    font-family: 'Rubik', sans-serif;
+
+}
+.satisfy {
+    font-family: 'Satisfy', cursive;
+}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
